@@ -1,0 +1,4 @@
+# Time-series-and-frequency-based-model-for-anomaly-fault-detection-for-a-desalination-pump-using-mach
+My graduation project will build up a model prototype that will detect anomalies without the need for human interventions and cut the costs of traveling and checking up on the desalination pumps. The system will be trained using prototype time-series data that will be granted to me by the faculty of Engineering at the British University in Egypt. This prototype will classify the time series data,  predict the label, and detect the anomalies from the time series using machine learning and deep learning techniques.
+You can download the whole thesis from this link 
+https://www.researchgate.net/publication/362173570_Time_series_and_frequency-based_model_for_anomaly_fault_detection_for_a_desalination_pump_using_machine_and_deep_learning
